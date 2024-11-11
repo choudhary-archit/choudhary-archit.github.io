@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Home
+title: Projects
+permalink: /projects/
 ---
 
-Nothing to see here, move along.
+Testing testing testing.
