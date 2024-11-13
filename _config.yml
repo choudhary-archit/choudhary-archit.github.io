@@ -29,6 +29,12 @@ linkedin_username: archit-choudhary-92ba61289
 github_username: choudhary-archit
 instagram_username: k4nkergiri
 
+markdown: kramdown
+kramdown:
+  math_engine: katex
+  math_engine_opts:
+    output: "mathml"
+
 # Build settings
 theme: minima
 plugins:
